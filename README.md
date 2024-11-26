@@ -1,0 +1,3 @@
+Me chamo Raphael e esse projeto é de um iniciante/intermediário (não sei ao certo me classificar nesse vasto campo da tecnologia). Estou fazendo um sistema de gerenciamento para uma biblioteca ficticia. Fiquei quebrando a cabeça pensando em qual tipo de projeto
+eu poderia fazer para colocar o conhecimento que tenho até agora em prática, e esse me veio a cabeça. Provavelmente já deve ter milhões desses ai pelo github, mas to fazendo isso por mim e pra de fato testar o quanto estou sabendo.
+É um projeto feito em java, usando a IDE do springtools4(que eu particulamente acho um lixo), e vou usar o postgreSQL pra ser meu banco de dados. 
